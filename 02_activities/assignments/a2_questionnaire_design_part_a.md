@@ -10,36 +10,87 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 ### Scenarios
 1.	You work in the Human Resources Department at a large tech company. Over the past few months, the company has been experiencing a high turnover rate across many of its departments, specifically within the entry- and lower-level positions. The company wishes to understand why this turnover is happening, and what changes need to occur to improve employee satisfaction.
-2.	You work for a Canadian national political party during a federal election. Throughout the campaign period, your party has seen relatively high approval ratings, but an opposing party is also polling favorably and may still have a chance to win the election. You are one month away from the election and you want to understand what voters want from your party and its leader in order to maintain your lead and eventually win the election.
-3.	You are a student researcher in the sociology department at the University of Toronto. You are working on a research project that concerns the relationship between music taste and age. This involves both comparisons between different people of different ages and comparisons of the same individual at different ages during their lifetime. You wish to understand to what extent age influences music taste, specifically as it relates to perceptions of popular music. Your results will be written into an academic paper that you hope to publish.
 
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+write your answer here... The purpose of our survey will be to better understand the reasons and thereon identify the key factors that have resulted in the high turnover rate in the company (especially among entry- and lower-level employees). We want to understand their concerns once we learn that we can recommend changes where required.
+
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 write your answer here...
+
+Target Population - Entry and lower level employees of the company in various departments.  This way the survey will focus on the specific group experiencing high turnover.
+
+Sampling frame - A list of target population as mentioned above.
+
+SAmpling units - Current employees in entry and low level positions across the company. Each current employee will represent a single sampling unit.
+
+Observational units - They are the responses received from the employees which will be later analysed.
+
+The sampling strategy will be of STRATIFIED SAMPLING for current employees at various stages of employment. The questionnaire will be given to all entry level and lower level employees of different departments. By this method we can ensure that each department's specific issues and satisfaction levels are captured.
+
+We will follow the below steps 
+
+- Identify strata
+- Determine sample size of each strata - should be large enough to give significant results.
+- Simple Random Sampling within strata using ramdomization techniques.
+- Data collection - can be done online (email invites + reminders)
+- Data analysis - to identify key factors affecting employees' satisfaction by each department.
+
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1.	How long were you employed at the company?
+        o	Less than 6 months
+        o	6 months to 2 years
+        o	More than 2 years
+2.	Which department did you work in?
+        o	Operations
+        o	Sales
+        o	Supply Chain
+        o	Marketing        
+        o	Other (please specify)
+3.      How satisfied were you with your job role and responsibilities?
+        o	Very satisfied
+        o	Satisfied
+        o	Neutral
+        o	Dissatisfied
+        o	Very dissatisfied
+5.	How would you rate your chances for career growth in our company?
+        o	Very good
+        o	Good
+        o	Not good
+        o	Not sure yet
+6.	Do you feel your contributions to your team and the comapny are valued?
+        o	Always
+        o	Often
+        o	Sometimes
+        o	Rarely
+        o	Never
+7.      Tick all the options which you feel are positive about your role and the company in general.
+        o	Communication within the company
+        o	Resources available to you to do your role (physical + people)
+        o	Rewards and recognition
+        o	Monetory benefits
+        o	Work-life balance
+        o	Organization structure
+        o	Any other pls specify___________
+8.      If there was one thing you could change in our company's general way of working what would it be?
+        ____________________________________
+9.      What practice(s) from your previous company did you find effective and would like for us to consider to implement here?
+        ____________________________________
+10.     Do you have any other suggestions for improving employee satisfaction at our company?
+        ____________________________________
+        
+
 ```
 
 ## Rubric
