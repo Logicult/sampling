@@ -26,14 +26,23 @@ Describe your target population, sampling frame, sampling units, and observation
 ```
 write your answer here...
 
-Target Population - Entry and lower level employees of the company in various departments.
+Target Population - Entry and lower level employees of the company in various departments.  This way the survey will focus on the specific group experiencing high turnover.
 
 Sampling frame - A list of target population as mentioned above.
 
-SAmpling units - Current employees in entry and low level positions across the company.
+SAmpling units - Current employees in entry and low level positions across the company. Each current employee will represent a single sampling unit.
 
-Observational units - They are the responses received from the employees.
+Observational units - They are the responses received from the employees which will be later analysed.
 
+The sampling strategy will be of STRATIFIED SAMPLING for current employees at various stages of employment. The questionnaire will be given to all entry level and lower level employees of different departments. By this method we can ensure that each department's specific issues and satisfaction levels are captured.
+
+We will follow the below steps 
+
+- Identify strata
+- Determine sample size of each strata - should be large enough to give significant results.
+- Simple Random Sampling within strata using ramdomization techniques.
+- Data collection - can be done online (email invites + reminders)
+- Data analysis - to identify key factors affecting employees' satisfaction by each department.
 
 ```
 
