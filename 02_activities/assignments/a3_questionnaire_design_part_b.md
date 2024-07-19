@@ -4,19 +4,26 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+   The quality of the sample is good because I have used stratified sampling on existing employees across all departments. This will help ensure that all subgroups like different departments and people with different tenure of employment will get to participate. Biases such as non-response bias could affect the results if some employees do not participate. To handle this we can send email reminders to encourage participation and aim for a high response rate. Also we can stress that the response will be anonymous in our regular communication with the employees.
+
+   In comparison, simple random sampling may not have captured all subgroups effectively.
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
+    1. I have already used open ended questions so that employees can give in-depth responses (Qualitative data analysis)
+    2. I have also added neutral responses to many questions to avoid response bias. 
+    3. As mentioned above i realised the importance of letting the employees know that responses will be anonymous and confidential. I will add that to the survey email as well as in other communication which I send out regarding the survey.
+    4. Maybe I can also implement pilot testing on some employees to identify any unclear questions and look at editing the survey thereon.
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+    In the case of my chosen subject an observational study would not have been correct to use as it would lack details of personal feedback. If I have to understand the reasons for employee turnover and present to senior management I need to be able to get factual data basis direct responses. The survey is designed for direct and detailed feedback about how the employee feels about the way the company works. The observational studies can be used for identifying patterns but not direct experiences and motivations.
+
+    Moreover, I wanted to categorise the respondants as per tenure and departments. Hence stratified sampling seems like th ebest option. Other methods like convenience sampling or cluster sampling will not provide the balanced representation needed for this analysis.
     ```
 
 ## Why am I doing this assignment?
